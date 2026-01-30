@@ -1,0 +1,28 @@
+export const ui = {
+  PL: {
+    title: 'Jak dobrze znasz historię ',
+    name: 'Fryderyka Chopina?',
+    next: 'Następne pytanie',
+    selectAnswer: 'Wybierz odpowiedź',
+    correctAnswer: 'Poprawna odpowiedź!',
+    incorrectAnswer: 'Niepoprawna odpowiedź',
+    resultTitle: 'Twój wynik:',
+    retryButton: 'Rozpocznij quiz jeszcze raz',
+    resultHigh: 'Świetny wynik! Gratulacje!',
+    resultMedium: 'Nieźle, ale może być lepiej!',
+    resultLow: 'Słabo... Spróbuj jeszcze raz!',
+  },
+  EN: {
+    title: 'Do you know the history of ',
+    name: 'Frédéric Chopin?',
+    next: 'Next question',
+    selectAnswer: 'Select an answer',
+    correctAnswer: 'Correct answer!',
+    incorrectAnswer: 'Incorrect answer',
+    resultTitle: 'Your result:',
+    retryButton: 'Start quiz again',
+    resultHigh: 'Great score! Congratulations!',
+    resultMedium: 'Not bad, but it could be better!',
+    resultLow: 'That wasn’t great… Try again!',
+  },
+} as const;
