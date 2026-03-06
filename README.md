@@ -1,5 +1,8 @@
 # Chopin Quiz App (React)
 
+## Preview
+<img width="376" height="664" alt="image" src="https://github.com/user-attachments/assets/509222b0-e01b-4b44-9860-557285ba5e01" />
+
 An interactive quiz application about Frédéric Chopin, built with React and TypeScript.
 
 The app allows users to answer 20 questions and receive feedback at the end of the quiz. It also supports two language versions: Polish and English.
