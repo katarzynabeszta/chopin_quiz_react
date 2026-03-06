@@ -1,7 +1,7 @@
 # Chopin Quiz App (React)
 
 ## Preview
-<img width="376" height="664" alt="image" src="https://github.com/user-attachments/assets/509222b0-e01b-4b44-9860-557285ba5e01" />
+<img width="372" height="656" alt="image" src="https://github.com/user-attachments/assets/ea554089-a295-4745-84f0-eee20d01e7bf" />
 
 An interactive quiz application about Frédéric Chopin, built with React and TypeScript.
 
